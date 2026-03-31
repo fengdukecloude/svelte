@@ -1,5 +1,11 @@
 # svelte
 
+## 5.55.2
+
+### Patch Changes
+
+- fix: don't override `$destroy/set/on` instance methods in dev mode ([#18034](https://github.com/sveltejs/svelte/pull/18034))
+
 ## 5.55.1
 
 ### Patch Changes
